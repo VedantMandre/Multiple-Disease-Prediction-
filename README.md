@@ -2,7 +2,7 @@
 
 This repository contains a Python script and a web-based GUI application built using Streamlit to predict three different medical conditions: diabetes, ❤️ heart disease, and 👤 Parkinson's disease. The application showcases the process of building predictive models for medical diagnosis.
 
-## Parkinson's Disease Detection Script
+## Multiple Disease Detection Script
 
 ### Purpose
 The script demonstrates the development of a predictive model using the Support Vector Machine (SVM) algorithm to detect Parkinson's disease based on health metrics.
