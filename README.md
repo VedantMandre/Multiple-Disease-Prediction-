@@ -52,3 +52,5 @@ The web GUI application built using Streamlit allows users to interactively pred
 4. Access the application via the provided local URL or the public URL.
 
 This repository serves as both a practical example of machine learning application in medical diagnosis and a user-friendly interface for predicting various medical conditions based on user-provided health metrics.
+
+![Image](https://github.com/VedantMandre/Multiple-Disease-Prediction-/assets/114442140/b7b08823-3fb4-4f56-9e0d-54c70587f011)
