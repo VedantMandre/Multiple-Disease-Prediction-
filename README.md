@@ -10,7 +10,7 @@ The script demonstrates the development of a predictive model using the Support 
 ### Steps Covered
 1. **Importing Dependencies**: Essential libraries such as numpy, pandas, and scikit-learn are imported for data manipulation, machine learning operations, and evaluation.
 
-2. **Data Collection & Analysis**: Data is read from a CSV file ('parkinsons.csv') using Pandas. The script displays initial data exploration results like the first few rows, data shape, column information, missing values check, and statistical summary.
+2. **Data Collection & Analysis**: Data is read from a CSV file using Pandas. The script displays initial data exploration results like the first few rows, data shape, column information, missing values check, and statistical summary.
 
 3. **Data Pre-Processing**: The data is separated into features (X) and target labels (Y) by dropping the 'name' and 'status' columns.
 
