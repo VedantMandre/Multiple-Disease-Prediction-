@@ -1,6 +1,6 @@
 # Multiple Disease Detection App
 
-This repository contains a Python script and a web-based GUI application built using Streamlit to predict three different medical conditions: diabetes, heart disease, and Parkinson's disease. The application showcases the process of building predictive models for medical diagnosis.
+This repository contains a Python script and a web-based GUI application built using Streamlit to predict three different medical conditions: diabetes, ❤️ heart disease, and 👤 Parkinson's disease. The application showcases the process of building predictive models for medical diagnosis.
 
 ## Parkinson's Disease Detection Script
 
@@ -31,7 +31,7 @@ In summary, this script showcases the complete workflow of loading, analyzing, p
 ## Web GUI Application
 
 ### Purpose
-The web GUI application built using Streamlit allows users to interactively predict three medical conditions: diabetes, heart disease, and Parkinson's disease.
+The web GUI application built using Streamlit allows users to interactively predict three medical conditions: diabetes, ❤️ heart disease, and 👤 Parkinson's disease.
 
 ### Steps Covered
 1. **Importing Dependencies**: The application uses Streamlit for creating the web interface, the pickle library to load pre-trained models, and a custom module for navigation.
