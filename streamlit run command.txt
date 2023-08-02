@@ -1,0 +1,4 @@
+streamlit run "C:\Users\MSI_PC\DiseasePrediction\multiple disease pred.py"
+
+
+streamlit run "C:\Users\MSI_PC\DiseasePrediction\app.py"
